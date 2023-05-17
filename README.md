@@ -20,8 +20,11 @@ The syntax to run the executable is:
 Replace each argument with the appropriate value:
 
 `DROP_TIME`: The time of the NFT drop in HH:MM:SS format. This is when the first click will occur.
+
 `GET_X` and `GET_Y`: The x and y coordinates (in pixels) of the initial click location on your phone's screen.
+
 `BUY_X` and `BUY_Y`: The x and y coordinates (in pixels) of the buy button location on your phone's screen.
+
 `DEVICE_ID`: The ID of the device you want to use. This is optional. If not provided, the program will use the first available device.
 
 ## Example:
