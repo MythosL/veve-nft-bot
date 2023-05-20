@@ -1,7 +1,7 @@
 
 
 # veve-nft-bot
-This is a tool to automatically click on the Veve app at the exact moment an NFT drop happens. It can be used with multiple phones simultaneously.
+This is a tool to automatically buy you a nft on the Veve app at the exact moment the drop happens. It can be used with multiple phones simultaneously.
 
 **IMPORTANT: This program uses some deprecated features and has not been updated since 2021. It has not been adjusted for newr veve features and updates.**
 
